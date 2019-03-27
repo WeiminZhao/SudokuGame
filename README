@@ -1,0 +1,24 @@
+The project is created by using Eclipse IDE, the source code is provided.
+
+The program is required Java 10 to be able to run properly.
+
+
+
+Game play Guideline:
+
+Download
+
+Download the game from github which is in a jar file.
+In order to run the game, users/players should have the latest version of windows/ macOS system and JDK (Java SE Development - Oracle) in the laptop or computer.
+
+Main operation of  game
+
+To start a game, users should firstly choose which Mode they want to play, this game includes Standard and Challenge Mode, this action can be done by clicking buttons. 
+
+In each mode, there are three difficulties following by Easy / Normal / Hard, by clicking the buttons, users could start a sudoku game. If he/she wants to start a new game, then click “New game” button, or if he/she wants to resume the game that not finished, then click ”Continue” button.
+
+Once start a Standard game, players can use mouse or keyboard to move to the cells that needs to be filled, they also can erase wrong numbers (shown as red). When each player finish the current puzzle, they can choose to clear (all the numbers entered) or start a new game by click ” Next ” button with the same mode and difficulty or go back to “Menu” if he/she want to try different modes and difficulties.
+
+Once start a Challenge game, players can do all the same actions as in Standard mode except the timer, when the timer counts down to 0s, players could not fill or clear the numbers anymore.
+
+To exit the game, player can click “ Quit ” button.
