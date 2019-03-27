@@ -1,6 +1,6 @@
 The project is created by using Eclipse IDE, the source code is provided.
 
-The program is required Java 10 to be able to run properly.
+The program is required at least Java SE 10 to be able to run properly.
 
 
 
@@ -9,8 +9,8 @@ Game play Guideline:
 Download
 
 Download the game from github which is in a jar file.
-In order to run the game, users/players should have the latest version of windows/ macOS system and JDK (Java SE Development - Oracle) in the laptop or computer.
-
+In order to run the game, users/players should have the latest version of windows/ macOS system and JDK (Java SE Development - Oracle 10 or later) in the laptop or computer.
+(For download latest Java SE: https://www.oracle.com/technetwork/java/javase/downloads/index.html)
 Main operation of  game
 
 To start a game, users should firstly choose which Mode they want to play, this game includes Standard and Challenge Mode, this action can be done by clicking buttons. 
